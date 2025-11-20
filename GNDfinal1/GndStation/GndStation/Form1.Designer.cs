@@ -56,6 +56,16 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label43 = new System.Windows.Forms.Label();
+            this.label44 = new System.Windows.Forms.Label();
+            this.Base_display = new System.Windows.Forms.Label();
+            this.Custom_display = new System.Windows.Forms.Label();
+            this.label31 = new System.Windows.Forms.Label();
+            this.label32 = new System.Windows.Forms.Label();
+            this.AccY_display = new System.Windows.Forms.Label();
+            this.AccZ_display = new System.Windows.Forms.Label();
+            this.label41 = new System.Windows.Forms.Label();
+            this.AccX_display = new System.Windows.Forms.Label();
             this.label33 = new System.Windows.Forms.Label();
             this.label34 = new System.Windows.Forms.Label();
             this.V_3 = new System.Windows.Forms.Label();
@@ -128,16 +138,7 @@
             this.Z_box = new System.Windows.Forms.TextBox();
             this.Y_box = new System.Windows.Forms.TextBox();
             this.X_box = new System.Windows.Forms.TextBox();
-            this.label31 = new System.Windows.Forms.Label();
-            this.label32 = new System.Windows.Forms.Label();
-            this.AccY_display = new System.Windows.Forms.Label();
-            this.AccZ_display = new System.Windows.Forms.Label();
-            this.label41 = new System.Windows.Forms.Label();
-            this.AccX_display = new System.Windows.Forms.Label();
-            this.label43 = new System.Windows.Forms.Label();
-            this.label44 = new System.Windows.Forms.Label();
-            this.Base_display = new System.Windows.Forms.Label();
-            this.Custom_display = new System.Windows.Forms.Label();
+            this.buttonrtc = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -501,6 +502,111 @@
             this.groupBox1.Size = new System.Drawing.Size(447, 414);
             this.groupBox1.TabIndex = 41;
             this.groupBox1.TabStop = false;
+            // 
+            // label43
+            // 
+            this.label43.AutoSize = true;
+            this.label43.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label43.Location = new System.Drawing.Point(285, 383);
+            this.label43.Name = "label43";
+            this.label43.Size = new System.Drawing.Size(61, 18);
+            this.label43.TabIndex = 97;
+            this.label43.Text = "Custom";
+            // 
+            // label44
+            // 
+            this.label44.AutoSize = true;
+            this.label44.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label44.Location = new System.Drawing.Point(27, 383);
+            this.label44.Name = "label44";
+            this.label44.Size = new System.Drawing.Size(42, 18);
+            this.label44.TabIndex = 96;
+            this.label44.Text = "Base";
+            // 
+            // Base_display
+            // 
+            this.Base_display.AutoSize = true;
+            this.Base_display.BackColor = System.Drawing.Color.Silver;
+            this.Base_display.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Base_display.Location = new System.Drawing.Point(72, 378);
+            this.Base_display.Name = "Base_display";
+            this.Base_display.Size = new System.Drawing.Size(24, 25);
+            this.Base_display.TabIndex = 95;
+            this.Base_display.Text = "0";
+            // 
+            // Custom_display
+            // 
+            this.Custom_display.AutoSize = true;
+            this.Custom_display.BackColor = System.Drawing.Color.Silver;
+            this.Custom_display.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Custom_display.Location = new System.Drawing.Point(349, 378);
+            this.Custom_display.Name = "Custom_display";
+            this.Custom_display.Size = new System.Drawing.Size(24, 25);
+            this.Custom_display.TabIndex = 94;
+            this.Custom_display.Text = "0";
+            // 
+            // label31
+            // 
+            this.label31.AutoSize = true;
+            this.label31.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label31.Location = new System.Drawing.Point(137, 309);
+            this.label31.Name = "label31";
+            this.label31.Size = new System.Drawing.Size(77, 18);
+            this.label31.TabIndex = 91;
+            this.label31.Text = "Az [m/s^2]";
+            // 
+            // label32
+            // 
+            this.label32.AutoSize = true;
+            this.label32.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label32.Location = new System.Drawing.Point(137, 274);
+            this.label32.Name = "label32";
+            this.label32.Size = new System.Drawing.Size(76, 18);
+            this.label32.TabIndex = 90;
+            this.label32.Text = "Ay [m/s^2]";
+            // 
+            // AccY_display
+            // 
+            this.AccY_display.AutoSize = true;
+            this.AccY_display.BackColor = System.Drawing.Color.Silver;
+            this.AccY_display.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.AccY_display.Location = new System.Drawing.Point(220, 274);
+            this.AccY_display.Name = "AccY_display";
+            this.AccY_display.Size = new System.Drawing.Size(24, 25);
+            this.AccY_display.TabIndex = 89;
+            this.AccY_display.Text = "0";
+            // 
+            // AccZ_display
+            // 
+            this.AccZ_display.AutoSize = true;
+            this.AccZ_display.BackColor = System.Drawing.Color.Silver;
+            this.AccZ_display.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.AccZ_display.Location = new System.Drawing.Point(220, 304);
+            this.AccZ_display.Name = "AccZ_display";
+            this.AccZ_display.Size = new System.Drawing.Size(24, 25);
+            this.AccZ_display.TabIndex = 88;
+            this.AccZ_display.Text = "0";
+            // 
+            // label41
+            // 
+            this.label41.AutoSize = true;
+            this.label41.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label41.Location = new System.Drawing.Point(137, 242);
+            this.label41.Name = "label41";
+            this.label41.Size = new System.Drawing.Size(76, 18);
+            this.label41.TabIndex = 87;
+            this.label41.Text = "Ax [m/s^2]";
+            // 
+            // AccX_display
+            // 
+            this.AccX_display.AutoSize = true;
+            this.AccX_display.BackColor = System.Drawing.Color.Silver;
+            this.AccX_display.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.AccX_display.Location = new System.Drawing.Point(220, 242);
+            this.AccX_display.Name = "AccX_display";
+            this.AccX_display.Size = new System.Drawing.Size(24, 25);
+            this.AccX_display.TabIndex = 86;
+            this.AccX_display.Text = "0";
             // 
             // label33
             // 
@@ -1281,116 +1387,22 @@
             this.X_box.Size = new System.Drawing.Size(38, 31);
             this.X_box.TabIndex = 13;
             // 
-            // label31
+            // buttonrtc
             // 
-            this.label31.AutoSize = true;
-            this.label31.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label31.Location = new System.Drawing.Point(137, 309);
-            this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(77, 18);
-            this.label31.TabIndex = 91;
-            this.label31.Text = "Az [m/s^2]";
-            // 
-            // label32
-            // 
-            this.label32.AutoSize = true;
-            this.label32.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label32.Location = new System.Drawing.Point(137, 274);
-            this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(76, 18);
-            this.label32.TabIndex = 90;
-            this.label32.Text = "Ay [m/s^2]";
-            // 
-            // AccY_display
-            // 
-            this.AccY_display.AutoSize = true;
-            this.AccY_display.BackColor = System.Drawing.Color.Silver;
-            this.AccY_display.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.AccY_display.Location = new System.Drawing.Point(220, 274);
-            this.AccY_display.Name = "AccY_display";
-            this.AccY_display.Size = new System.Drawing.Size(24, 25);
-            this.AccY_display.TabIndex = 89;
-            this.AccY_display.Text = "0";
-            // 
-            // AccZ_display
-            // 
-            this.AccZ_display.AutoSize = true;
-            this.AccZ_display.BackColor = System.Drawing.Color.Silver;
-            this.AccZ_display.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.AccZ_display.Location = new System.Drawing.Point(220, 304);
-            this.AccZ_display.Name = "AccZ_display";
-            this.AccZ_display.Size = new System.Drawing.Size(24, 25);
-            this.AccZ_display.TabIndex = 88;
-            this.AccZ_display.Text = "0";
-            // 
-            // label41
-            // 
-            this.label41.AutoSize = true;
-            this.label41.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label41.Location = new System.Drawing.Point(137, 242);
-            this.label41.Name = "label41";
-            this.label41.Size = new System.Drawing.Size(76, 18);
-            this.label41.TabIndex = 87;
-            this.label41.Text = "Ax [m/s^2]";
-            // 
-            // AccX_display
-            // 
-            this.AccX_display.AutoSize = true;
-            this.AccX_display.BackColor = System.Drawing.Color.Silver;
-            this.AccX_display.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.AccX_display.Location = new System.Drawing.Point(220, 242);
-            this.AccX_display.Name = "AccX_display";
-            this.AccX_display.Size = new System.Drawing.Size(24, 25);
-            this.AccX_display.TabIndex = 86;
-            this.AccX_display.Text = "0";
-            // 
-            // label43
-            // 
-            this.label43.AutoSize = true;
-            this.label43.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label43.Location = new System.Drawing.Point(285, 383);
-            this.label43.Name = "label43";
-            this.label43.Size = new System.Drawing.Size(61, 18);
-            this.label43.TabIndex = 97;
-            this.label43.Text = "Custom";
-            // 
-            // label44
-            // 
-            this.label44.AutoSize = true;
-            this.label44.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label44.Location = new System.Drawing.Point(27, 383);
-            this.label44.Name = "label44";
-            this.label44.Size = new System.Drawing.Size(42, 18);
-            this.label44.TabIndex = 96;
-            this.label44.Text = "Base";
-            // 
-            // Base_display
-            // 
-            this.Base_display.AutoSize = true;
-            this.Base_display.BackColor = System.Drawing.Color.Silver;
-            this.Base_display.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Base_display.Location = new System.Drawing.Point(72, 378);
-            this.Base_display.Name = "Base_display";
-            this.Base_display.Size = new System.Drawing.Size(24, 25);
-            this.Base_display.TabIndex = 95;
-            this.Base_display.Text = "0";
-            // 
-            // Custom_display
-            // 
-            this.Custom_display.AutoSize = true;
-            this.Custom_display.BackColor = System.Drawing.Color.Silver;
-            this.Custom_display.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Custom_display.Location = new System.Drawing.Point(349, 378);
-            this.Custom_display.Name = "Custom_display";
-            this.Custom_display.Size = new System.Drawing.Size(24, 25);
-            this.Custom_display.TabIndex = 94;
-            this.Custom_display.Text = "0";
+            this.buttonrtc.Location = new System.Drawing.Point(1680, 255);
+            this.buttonrtc.Name = "buttonrtc";
+            this.buttonrtc.Size = new System.Drawing.Size(75, 23);
+            this.buttonrtc.TabIndex = 54;
+            this.buttonrtc.Text = "buttonrtc";
+            this.buttonrtc.UseVisualStyleBackColor = true;
+            this.buttonrtc.Click += new System.EventHandler(this.buttonrtc_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1798, 882);
+            this.Controls.Add(this.buttonrtc);
             this.Controls.Add(this.Indoor);
             this.Controls.Add(this.SetupBtn);
             this.Controls.Add(this.cameraBox);
@@ -1538,6 +1550,7 @@
         private System.Windows.Forms.Label AccZ_display;
         private System.Windows.Forms.Label label41;
         private System.Windows.Forms.Label AccX_display;
+        private System.Windows.Forms.Button buttonrtc;
     }
 }
 

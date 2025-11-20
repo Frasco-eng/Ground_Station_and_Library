@@ -240,7 +240,10 @@
     <Compile Include="CallBacks.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Camera_Stream.cs">
+    <Compile Include="CameraWebrtc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CameraWebsockets.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="CartesianPlaneControl.cs" />

@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\gndstation\\camera_stream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|solutionrelative:gndstation\\camera_stream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|c:\\users\\cenni\\desktop\\drone_stationv4\\gndfinal1\\gndstation\\gndstation\\camerawebrtc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|solutionrelative:gndstation\\camerawebrtc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|c:\\users\\cenni\\desktop\\drone_stationv4\\gndfinal1\\gndstation\\gndstation\\ui1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|c:\\users\\cenni\\desktop\\drone_stationv4\\gndfinal1\\gndstation\\gndstation\\camerawebsockets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|solutionrelative:gndstation\\camerawebsockets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\gndstation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|solutionrelative:gndstation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\gndstation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|solutionrelative:gndstation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\gndstation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|solutionrelative:gndstation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\gndstation\\ui1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|solutionrelative:gndstation\\ui1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\gndstation\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|solutionrelative:gndstation\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\gndstation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|solutionrelative:gndstation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\gndstation\\eventhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,10 +70,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\gndstation\\callbacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|solutionrelative:gndstation\\callbacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\gndstation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7C506FF8-23D7-48E3-B580-900E0776DB74}|GndStation\\GndStation.csproj|solutionrelative:gndstation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,11 +79,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "CameraWebrtc.cs",
+              "DocumentMoniker": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\CameraWebrtc.cs",
+              "RelativeDocumentMoniker": "GndStation\\CameraWebrtc.cs",
+              "ToolTip": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\CameraWebrtc.cs",
+              "RelativeToolTip": "GndStation\\CameraWebrtc.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T13:16:38.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "GndStation\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\Form1.Designer.cs",
+              "RelativeToolTip": "GndStation\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T13:29:10.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UI1.cs",
               "DocumentMoniker": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\UI1.cs",
               "RelativeDocumentMoniker": "GndStation\\UI1.cs",
@@ -83,23 +117,23 @@
               "RelativeToolTip": "GndStation\\UI1.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAcwCEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T15:44:47.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T15:44:47.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Progettazione]",
               "DocumentMoniker": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\Form1.cs",
               "RelativeDocumentMoniker": "GndStation\\Form1.cs",
               "ToolTip": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\Form1.cs [Progettazione]",
               "RelativeToolTip": "GndStation\\Form1.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T15:45:31.426Z"
+              "WhenOpened": "2025-11-06T15:45:31.426Z",
+              "EditorCaption": " [Progettazione]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "CallBacks.cs",
               "DocumentMoniker": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\CallBacks.cs",
               "RelativeDocumentMoniker": "GndStation\\CallBacks.cs",
@@ -111,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "UI2.cs",
               "DocumentMoniker": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\UI2.cs",
               "RelativeDocumentMoniker": "GndStation\\UI2.cs",
@@ -123,32 +157,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Camera_Stream.cs",
-              "DocumentMoniker": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\Camera_Stream.cs",
-              "RelativeDocumentMoniker": "GndStation\\Camera_Stream.cs",
-              "ToolTip": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\Camera_Stream.cs",
-              "RelativeToolTip": "GndStation\\Camera_Stream.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAowFAAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CameraWebsockets.cs",
+              "DocumentMoniker": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\CameraWebsockets.cs",
+              "RelativeDocumentMoniker": "GndStation\\CameraWebsockets.cs",
+              "ToolTip": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\CameraWebsockets.cs",
+              "RelativeToolTip": "GndStation\\CameraWebsockets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T15:59:02.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\Form1.cs",
               "RelativeDocumentMoniker": "GndStation\\Form1.cs",
               "ToolTip": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\Form1.cs",
               "RelativeToolTip": "GndStation\\Form1.cs",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAowLQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAewKkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T15:45:28.611Z"
+              "WhenOpened": "2025-11-06T15:45:28.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "SetupForm.cs",
               "DocumentMoniker": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\SetupForm.cs",
               "RelativeDocumentMoniker": "GndStation\\SetupForm.cs",
@@ -160,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "MavlinkParse.cs",
               "DocumentMoniker": "C:\\Users\\cenni\\Desktop\\Drone_stationv2\\dronlink_new\\csDronLink\\MavlinkParse.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Drone_stationv2\\dronlink_new\\csDronLink\\MavlinkParse.cs",
@@ -171,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "CartesianPlaneControl.cs",
               "DocumentMoniker": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\CartesianPlaneControl.cs",
               "RelativeDocumentMoniker": "GndStation\\CartesianPlaneControl.cs",
@@ -183,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Telemetry.cs",
               "DocumentMoniker": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\Telemetry.cs",
               "RelativeDocumentMoniker": "GndStation\\Telemetry.cs",
@@ -195,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "RC_command.cs",
               "DocumentMoniker": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\RC_command.cs",
               "RelativeDocumentMoniker": "GndStation\\RC_command.cs",
@@ -207,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Helpers.cs",
               "DocumentMoniker": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\Helpers.cs",
               "RelativeDocumentMoniker": "GndStation\\Helpers.cs",
@@ -219,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "EventHandlers.cs",
               "DocumentMoniker": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\EventHandlers.cs",
               "RelativeDocumentMoniker": "GndStation\\EventHandlers.cs",
@@ -231,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "MavlinkParse.cs",
               "DocumentMoniker": "C:\\Users\\cenni\\Desktop\\Drone_stationv3\\dronlink_new\\csDronLink\\MavlinkParse.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Drone_stationv3\\dronlink_new\\csDronLink\\MavlinkParse.cs",
@@ -243,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Geofence.cs",
               "DocumentMoniker": "C:\\Users\\cenni\\Desktop\\Drone_stationv4\\GNDfinal1\\GndStation\\GndStation\\Geofence.cs",
               "RelativeDocumentMoniker": "GndStation\\Geofence.cs",
@@ -255,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Dron_scenes.cs",
               "DocumentMoniker": "C:\\Users\\cenni\\Desktop\\Drone_stationv3\\dronlink_new\\csDronLink\\Dron_scenes.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Drone_stationv3\\dronlink_new\\csDronLink\\Dron_scenes.cs",

@@ -163,6 +163,8 @@ namespace GndStation
         float battery_current, battery_remaining;
         float[] battery_cell;
         float accx, accy, accz, gyrox, gyroy, gyroz;
+
+
         uint base_mode;
         uint custom_mode;
         // for Telemetry Representation
