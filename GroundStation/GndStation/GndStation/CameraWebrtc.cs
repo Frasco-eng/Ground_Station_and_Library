@@ -29,8 +29,8 @@ namespace GndStation
 
             // --- Launch Python ---
             pythonProcess = new Process();
-            pythonProcess.StartInfo.FileName = @"C:\Users\cenni\Desktop\python_optcon\Scripts\python.exe";
-            pythonProcess.StartInfo.Arguments = @"C:\Users\cenni\Desktop\Drone_stationv4\Utilities\webrtc.py";
+            pythonProcess.StartInfo.FileName = @"C:\Users\cenni\Desktop\Drone_stationv5\Utilities_Code\Scripts\python.exe";
+            pythonProcess.StartInfo.Arguments = @"C:\Users\cenni\Desktop\Drone_stationv5\Utilities_Code\webrtc.py";
             pythonProcess.StartInfo.UseShellExecute = false;
             pythonProcess.Start();
 
